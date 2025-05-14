@@ -1,2 +1,12 @@
+# Node modules
 node_modules/
+
+# Environment Variable
 .env
+
+# Build Directories
+dist/
+build/
+
+# System files
+.DS_Store
